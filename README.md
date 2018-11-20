@@ -1,5 +1,5 @@
 # dooble
-A google clone build with php (Currenty Ongoing)
+A google search engine clone build with php (Currenty Ongoing)
 
 # Properties
 Site search
